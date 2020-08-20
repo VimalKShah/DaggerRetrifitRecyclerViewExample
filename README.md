@@ -1,1 +1,1 @@
-# DaggerRetrifitRecyclerViewExample
+# DaggerRetrofitRecyclerViewExample
